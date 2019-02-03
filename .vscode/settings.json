@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "html": {
+            "attr_quotes": "double"
+        },
+        "jsx": {
+            "self_closing_tag": true
+        }
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "razor": "html",
+        "plaintext": "jade"
+    }
+}
